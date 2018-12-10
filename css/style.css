@@ -1,0 +1,47 @@
+body {
+font-family: Helvetica, sans-serif;
+  width: 1000px;
+  list-style: none;
+}
+
+header {
+  height: 1000px;
+  background-color: #444;
+}
+nav {
+  position: relative;
+
+}
+.nav-list {
+  float: right;
+  margin-top: 10px;
+  background-color: grey;
+}
+
+footer {
+  width: 1000px;
+  height: 70px;
+  background-color: #444;
+}
+img.logo {
+  float: left;
+}
+
+
+.logo {
+  display: block;
+  background-color: #444;
+}
+
+ul {
+  display: inline;
+  vertical-align: top;
+}
+
+nav ul li {
+  color: #999;
+  display: inline;
+  line-height: 70px;
+  padding: 0 34px;
+}
+
